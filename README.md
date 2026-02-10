@@ -50,7 +50,7 @@
 | 🏆 **Project** | 📝 **Description** | 🛠️ **Tech Stack** |
 |:---|:---|:---|
 | **[💳 Credit Card Fraud Detection](https://github.com/RichinStanly/Machine-Learning-Projects/tree/main/Project/credit_card)** | **Unsupervised AI Security:** Uses *Self-Organizing Maps (SOM)* to detect financial anomalies without labeled data. | `Python` `Deep Learning` `Streamlit` |
-| **[🍕 Zomato Market Intelligence](https://github.com/RichinStanly/Data-Analytics-And-Visualization)** | **Business Strategy Dashboard:** Analyzed 9,500+ restaurants to find the "Sweet Spot" between price & rating. | `Power BI` `DAX` `Data Storytelling` |
+| **[🍕 Zomato Market Intelligence](https://github.com/RichinStanly/PowerBI/tree/main/powerbi%20project)** | **Business Strategy Dashboard:** Analyzed 9,500+ restaurants to find the "Sweet Spot" between price & rating. | `Power BI` `DAX` `Data Storytelling` |
 | **[🏥 Medical Diagnostic AI](https://github.com/RichinStanly/Machine-Learning-Projects)** | **Predictive Healthcare:** High-sensitivity algorithms for predicting Heart Disease & Diabetes. | `Scikit-Learn` `CNN` `Pandas` |
 | **[🍔 Canteen Automation System](https://github.com/RichinStanly/Legacy-Full-Stack-Projects)** | **Full Stack Architecture:** A complete e-commerce solution for university food ordering with cart logic. | `PHP` `MySQL` `Web Design` |
 
