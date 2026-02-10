@@ -12,7 +12,7 @@
     I bridge the gap between <b>complex code</b> and <b>human stories</b>. My work spans from unsupervised fraud detection systems to business intelligence dashboards and creative literature.
   </p>
 
-  <a href="https://linkedin.com/in/your-linkedin-url">
+  <a href="https://www.linkedin.com/in/richin-stanly/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
