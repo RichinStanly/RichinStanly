@@ -1,67 +1,105 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Creative+Technologist;Data+Scientist+%7C+Rank+1;Author+%26+Full+Stack+Dev;Building+the+Future+of+AI" alt="Typing SVG" />
-
-  <h2 align="center">👋 Hi, I'm Richin Stanly</h2>
   
-  <p align="center">
-    <b> 🧠 AI & Data Science</b> | <b> 🎨 Creative Design</b> | <b> 📚 Published Author</b>
-  </p>
-  
-  <p align="center">
-    I bridge the gap between <b>complex code</b> and <b>human stories</b>. My work spans from unsupervised fraud detection systems to business intelligence dashboards and creative literature.
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Richin%20Stanly&fontSize=80&fontAlignY=35&desc=Creative%20Technologist%20%7C%20Data%20Scientist%20%7C%20Author&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" width="100%"/>
 
-  <a href="https://www.linkedin.com/in/richin-stanly/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://github.com/RichinStanly">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Building+Unsupervised+Fraud+Systems;Visualizing+Zomato+Market+Trends;Writing+Books+on+Quantum+Entropy;Bridging+Code+and+Human+Stories" alt="Typing SVG" />
   </a>
-<a href="mailto:richinstanlymeenachil@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
-</div>
-
-<hr/>
-
-### 🛠️ The Tech Arsenal
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/richin-stanly/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:richinstanlymeenachil@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/RichinStanly">
+      <img src="https://img.shields.io/badge/GitHub-View_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
-### 🚀 Featured "Rank 1" Projects
-
-| **💳 FinTech & Security** | **🍕 Business Intelligence** |
-|:---:|:---:|
-| **[Credit Card Fraud Detection](https://github.com/RichinStanly/Machine-Learning-Projects)** | **[Zomato Market Strategy](https://github.com/RichinStanly/Data-Analytics-And-Visualization)** |
-| *Unsupervised Deep Learning (SOM)* | *Power BI & DAX* |
-| Detected financial fraud anomalies using Self-Organizing Maps & Outlier detection logic. | Analyzed 9,500+ restaurants to identify the "Sweet Spot" between price and customer ratings. |
-| `Python` `Deep Learning` `Streamlit` | `Power BI` `Business Strategy` `SQL` |
-
-| **🏥 Healthcare AI** | **🍔 Full Stack Engineering** |
-|:---:|:---:|
-| **[Medical Diagnostic Models](https://github.com/RichinStanly/Machine-Learning-Projects)** | **[Canteen Automation System](https://github.com/RichinStanly/Legacy-Full-Stack-Projects)** |
-| *Predictive Analytics* | *Core PHP & Architecture* |
-| High-sensitivity algorithms for predicting Heart Disease, Diabetes, and Malaria using CNNs. | A complete e-commerce solution for university food ordering with cart & session logic. |
-| `Scikit-Learn` `CNN` `Pandas` | `PHP` `MySQL` `Web Design` |
+<h3 align="center">⚡ The "Rank 1" Philosophy</h3>
+<div align="center">
+  <i>"I don't just write code; I write narratives. Whether it's finding the story hidden inside 9,000 Zomato rows or explaining Quantum Mechanics through a Jam Sandwich, my goal is to translate complexity into clarity."</i>
+</div>
 
 <br/>
 
-### 📚 Creative Works & Philosophy
-I believe technology is a tool for expression. Beyond code, I write to explore the human condition.
-
-* 🌌 **[Through the Jam Sandwich](https://www.amazon.in/dp/B0FPGG2NTS)** - *A philosophical deconstruction of Entropy & Quantum Mechanics.*
-* 📜 **[Niyogom (നിയോഗം)](https://www.amazon.in/dp/B0GKYT61YF)** - *A Malayalam literary exploration of destiny and will.*
-
-<hr/>
+<h3 align="center">🛠️ The Technical Arsenal</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RichinStanly&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats" />
+
+| **🧠 AI & Data Science** | **💻 Full Stack & Web** | **⚙️ Tools & Architecture** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+
+</div>
+
+<br/>
+
+<h3 align="center">🚀 Featured High-Impact Projects</h3>
+
+| 🏆 **Project** | 📝 **Description** | 🛠️ **Tech Stack** |
+|:---|:---|:---|
+| **[💳 Credit Card Fraud Detection](https://github.com/RichinStanly/Machine-Learning-Projects)** | **Unsupervised AI Security:** Uses *Self-Organizing Maps (SOM)* to detect financial anomalies without labeled data. | `Python` `Deep Learning` `Streamlit` |
+| **[🍕 Zomato Market Intelligence](https://github.com/RichinStanly/Data-Analytics-And-Visualization)** | **Business Strategy Dashboard:** Analyzed 9,500+ restaurants to find the "Sweet Spot" between price & rating. | `Power BI` `DAX` `Data Storytelling` |
+| **[🏥 Medical Diagnostic AI](https://github.com/RichinStanly/Machine-Learning-Projects)** | **Predictive Healthcare:** High-sensitivity algorithms for predicting Heart Disease & Diabetes. | `Scikit-Learn` `CNN` `Pandas` |
+| **[🍔 Canteen Automation System](https://github.com/RichinStanly/Legacy-Full-Stack-Projects)** | **Full Stack Architecture:** A complete e-commerce solution for university food ordering with cart logic. | `PHP` `MySQL` `Web Design` |
+
+<br/>
+
+<h3 align="center">📚 Published Literary Works</h3>
+<p align="center"><i>Bridging the gap between Science, Philosophy, and Art.</i></p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.amazon.in/dp/B0FPGG2NTS">
+        <img src="https://img.icons8.com/color/96/000000/book-shelf.png" width="60"><br/>
+        <b>🌌 Through the Jam Sandwich</b>
+      </a>
+      <br/>
+      <i>A philosophical deconstruction of Entropy, Time, and Quantum Mechanics.</i>
+      <br/><br/>
+      <a href="https://www.amazon.in/dp/B0FPGG2NTS">
+        <img src="https://img.shields.io/badge/Amazon-Read_Now-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.amazon.in/dp/B0GKYT61YF">
+        <img src="https://img.icons8.com/color/96/000000/scroll.png" width="60"><br/>
+        <b>📜 Niyogom (നിയോഗം)</b>
+      </a>
+      <br/>
+      <i>A Malayalam literary exploration of destiny, human will, and existence.</i>
+      <br/><br/>
+      <a href="https://www.amazon.in/dp/B0GKYT61YF">
+        <img src="https://img.shields.io/badge/Amazon-Read_Now-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RichinStanly&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichinStanly&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichinStanly&theme=radical&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
