@@ -56,8 +56,8 @@
 ### 📚 Creative Works & Philosophy
 I believe technology is a tool for expression. Beyond code, I write to explore the human condition.
 
-* 🌌 **[Through the Jam Sandwich](./)** - *A philosophical deconstruction of Entropy & Quantum Mechanics.*
-* 📜 **[Niyogom (നിയോഗം)](./)** - *A Malayalam literary exploration of destiny and will.*
+* 🌌 **[Through the Jam Sandwich](https://www.amazon.in/dp/B0FPGG2NTS)** - *A philosophical deconstruction of Entropy & Quantum Mechanics.*
+* 📜 **[Niyogom (നിയോഗം)](https://www.amazon.in/dp/B0GKYT61YF)** - *A Malayalam literary exploration of destiny and will.*
 
 <hr/>
 
