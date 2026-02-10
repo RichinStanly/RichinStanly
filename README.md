@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Richin%20Stanly&fontSize=80&fontAlignY=35&desc=Creative%20Technologist%20%7C%20Data%20Scientist%20%7C%20Author&descAlignY=55&descSize=20&animation=fadeIn" alt="Header" width="100%"/>
 
   <a href="https://github.com/RichinStanly">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Building+Unsupervised+Fraud+Detection+Systems;Visualizing+Zomato+Market+Trends;Writing+Books+on+Quantum+Entropy;Bridging+Code+and+Human+Stories" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Building+Unsupervised+FraudDetection+Systems;Visualizing+Zomato+Market+Trends;Writing+Books+on+Quantum+Entropy;Bridging+Code+and+Human+Stories" alt="Typing SVG" />
   </a>
 
   <p align="center">
