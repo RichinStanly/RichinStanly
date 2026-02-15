@@ -44,7 +44,17 @@
 </div>
 
 <br/>
+<h3 align="center">🚀 Featured High-Impact Projects</h3>
 
+| 🏆 **Project** | 📝 **Description** | 🛠️ **Tech Stack** |
+|:---|:---|:---|
+| **[🎧 Sonic Aura](https://github.com/RichinStanly/SonicAura)** | **Lyrical Sentiment Engine:** A sleek Glassmorphism UI that uses *NLP & TextBlob* to extract and visualize the emotional footprint of musical artists. | `Python` `NLP` `Streamlit` |
+| **[🎬 CineQuest // X](https://github.com/RichinStanly/CineQuest)** | **Cyberpunk AI Recommender:** A neon-styled engine using *NLP & Cosine Similarity* to decrypt movie plots and find hidden connections. | `Python` `Streamlit` `Scikit-Learn` |
+| **[💳 Credit Card Fraud Detection](https://github.com/RichinStanly/Machine-Learning-Projects/tree/main/Project/credit_card)** | **Unsupervised AI Security:** Uses *Self-Organizing Maps (SOM)* to detect financial anomalies without labeled data. | `Python` `Deep Learning` `Streamlit` |
+| **[🍕 Zomato Market Intelligence](https://github.com/RichinStanly/PowerBI/tree/main/powerbi%20project)** | **Business Strategy Dashboard:** Analyzed 9,500+ restaurants to find the "Sweet Spot" between price & rating. | `Power BI` `DAX` `Data Storytelling` |
+| **[🏥 Medical Diagnostic AI](https://github.com/RichinStanly/Machine-Learning-Projects)** | **Predictive Healthcare:** High-sensitivity algorithms for predicting Heart Disease & Diabetes. | `Scikit-Learn` `CNN` `Pandas` |
+
+<br/>
 
 
 <h3 align="center">📚 Published Literary Works</h3>
@@ -58,17 +68,7 @@
         <b>🌌 Through the Jam Sandwich</b>
       </a>
       <br/>
-      <i>A philosophical deconstruc<h3 align="center">🚀 Featured High-Impact Projects</h3>
-
-| 🏆 **Project** | 📝 **Description** | 🛠️ **Tech Stack** |
-|:---|:---|:---|
-| **[🎧 Sonic Aura](https://github.com/RichinStanly/SonicAura)** | **Lyrical Sentiment Engine:** A sleek Glassmorphism UI that uses *NLP & TextBlob* to extract and visualize the emotional footprint of musical artists. | `Python` `NLP` `Streamlit` |
-| **[🎬 CineQuest // X](https://github.com/RichinStanly/CineQuest)** | **Cyberpunk AI Recommender:** A neon-styled engine using *NLP & Cosine Similarity* to decrypt movie plots and find hidden connections. | `Python` `Streamlit` `Scikit-Learn` |
-| **[💳 Credit Card Fraud Detection](https://github.com/RichinStanly/Machine-Learning-Projects/tree/main/Project/credit_card)** | **Unsupervised AI Security:** Uses *Self-Organizing Maps (SOM)* to detect financial anomalies without labeled data. | `Python` `Deep Learning` `Streamlit` |
-| **[🍕 Zomato Market Intelligence](https://github.com/RichinStanly/PowerBI/tree/main/powerbi%20project)** | **Business Strategy Dashboard:** Analyzed 9,500+ restaurants to find the "Sweet Spot" between price & rating. | `Power BI` `DAX` `Data Storytelling` |
-| **[🏥 Medical Diagnostic AI](https://github.com/RichinStanly/Machine-Learning-Projects)** | **Predictive Healthcare:** High-sensitivity algorithms for predicting Heart Disease & Diabetes. | `Scikit-Learn` `CNN` `Pandas` |
-
-<br/>tion of Entropy, Time, and Quantum Mechanics.</i>
+      <i>A philosophical deconstruction of Entropy, Time, and Quantum Mechanics.</i>
       <br/><br/>
       <a href="https://www.amazon.in/dp/B0FPGG2NTS">
         <img src="https://img.shields.io/badge/Amazon-Read_Now-FF9900?style=flat-square&logo=amazon&logoColor=white" />
