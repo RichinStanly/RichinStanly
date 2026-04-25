@@ -86,6 +86,18 @@
         <img src="https://img.shields.io/badge/Amazon-Read_Now-FF9900?style=flat-square&logo=amazon&logoColor=white" />
       </a>
     </td>
+     <td align="center" width="50%">
+      <a href="https://www.amazon.in/dp/B0GKYT61YF">
+        <img src="https://img.icons8.com/color/96/000000/scroll.png" width="60"><br/>
+        <b>📜 Banished From Heaven</b>
+      </a>
+      <br/>
+      <i>Banished From Heaven dives deep into the gritty, action-packed realm of YA Urban Fantasy.</i>
+      <br/><br/>
+      <a href="https://www.amazon.in/dp/B0GX34NJCV?ref=cm_sw_r_ffobk_cso_wa_mwn_dp_WB0YENK60YQ7CMGTP8Q0&ref_=cm_sw_r_ffobk_cso_wa_mwn_dp_WB0YENK60YQ7CMGTP8Q0&social_share=cm_sw_r_ffobk_cso_wa_mwn_dp_WB0YENK60YQ7CMGTP8Q0&bestFormat=true&dplnkId=ec3289ef-2b70-4dc3-b54c-461a37d68001">
+        <img src="https://img.shields.io/badge/Amazon-Read_Now-FF9900?style=flat-square&logo=amazon&logoColor=white" />
+      </a>
+    </td>
   </tr>
 </table>
 
