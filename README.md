@@ -138,7 +138,7 @@ Give it a subject and it gathers public sources into entities, relationships, a 
 ### 🚧 Project Friday
 **Coming Soon**
 <br/>
-*Placeholder — update this card once the repo is live on GitHub.*
+
 <br/><br/>
 `TBD`
 
