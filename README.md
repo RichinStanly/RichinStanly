@@ -22,6 +22,61 @@
 
 <br/>
 
+<div align="center">
+
+<a href="#-launchpad">🖥️ Launchpad</a>　•　<a href="#-featured-high-impact-projects">🚀 Projects</a>　•　<a href="#-published-literary-works">📚 Books</a>　•　<a href="#-github-analytics">📊 Analytics</a>　•　<a href="https://github.com/RichinStanly/Friday-1.0">⚡ Friday 1.0</a>
+
+<img src="https://komarev.com/ghpvc/?username=RichinStanly&style=flat-square&color=20c20e&label=PROFILE+VISITS" alt="Profile visits" />
+
+</div>
+
+## 🖥️ Launchpad
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — Explore the lab
+
+Open the projects, experiments, and tools I’m building.
+
+<a href="#-featured-high-impact-projects"><img src="https://img.shields.io/badge/OPEN_PROJECTS-20C20E?style=for-the-badge&logo=github&logoColor=black" alt="Open projects" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 02 — Meet Friday
+
+A local AI desktop assistant built to make useful tools feel like a personal command center.
+
+<a href="https://github.com/RichinStanly/Friday-1.0"><img src="https://img.shields.io/badge/LAUNCH_FRIDAY_1.0-111827?style=for-the-badge&logo=windows&logoColor=20C20E" alt="Open Friday 1.0 repository" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 — Read the stories
+
+Science, philosophy, Malayalam fiction, and a sci-fi heist.
+
+<a href="#-published-literary-works"><img src="https://img.shields.io/badge/BROWSE_BOOKS-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Browse books" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 04 — Say hello
+
+Have an idea, question, or collaboration in mind?
+
+<a href="mailto:richinstanlymeenachil@gmail.com"><img src="https://img.shields.io/badge/OPEN_A_CHANNEL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Richin" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
 <table align="center" width="100%">
 <tr><td align="center">
 
@@ -135,12 +190,12 @@ Give it a subject and it gathers public sources into entities, relationships, a 
 <tr>
 <td width="50%" valign="top">
 
-### 🚧 Project Friday
-**Coming Soon**
+### ⚡ [Friday 1.0](https://github.com/RichinStanly/Friday-1.0)
+**Your local AI desktop assistant**
 <br/>
-
+A Windows assistant powered by Ollama, with a focused desktop experience for chatting with local models.
 <br/><br/>
-`TBD`
+`Python` `PySide6` `Ollama`
 
 </td>
 <td width="50%" valign="top">
