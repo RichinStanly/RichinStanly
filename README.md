@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:172554,100:581c87&height=260&section=header&text=RICHIN%20STANLY&fontSize=66&fontColor=ffffff&fontAlignY=38&desc=CREATIVE%20TECHNOLOGIST%20%20%E2%80%A2%20%20DATA%20SCIENTIST%20%20%E2%80%A2%20%20AUTHOR&descSize=15&descAlignY=58&animation=fadeIn" alt="Richin Stanly — Creative Technologist, Data Scientist, Author" width="100%" />
+<a href="#start-here"><img src="https://raw.githubusercontent.com/RichinStanly/RichinStanly/main/assets/richin-cinematic-profile.gif" alt="Animated cinematic banner: Richin Stanly in a luminous orbital universe" width="100%" /></a>
 
 <a href="#start-here">⌂ HOME</a>　·　<a href="#project-arcade">▣ PROJECTS</a>　·　<a href="#bookshelf">▤ BOOKS</a>　·　<a href="#toolkit">⌘ TOOLKIT</a>　·　<a href="#contact">✉ CONTACT</a>
 
